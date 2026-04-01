@@ -50,3 +50,5 @@ GITHUB_PAGES_BASEPATH="/your-path/" ./build.sh
 
 GitHub Pages deployment (from `docs/`):  
 `https://nasqnik.github.io/markdown_to_html/`
+
+![Project demo](./static/demo.gif)
